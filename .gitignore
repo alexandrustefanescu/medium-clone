@@ -4,6 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
+sanitymedium/node_modules
+sanitymedium/dist
 
 # testing
 /coverage
@@ -11,6 +13,9 @@
 # next.js
 /.next/
 /out/
+
+#sanity
+/sanitymedium
 
 # production
 /build
